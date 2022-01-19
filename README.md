@@ -1,1 +1,3 @@
-<img src=""F:\AQ IT\Git_FOTO.png"">
+<img src="D:\web_tasarim\Git_FOTO.png">
+
+<h1 align="center">Hi</h1>
